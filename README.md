@@ -21,4 +21,4 @@ This data was gathered by fivethirtyeight.com in the public interest to understa
 
 ## References
 
-[reference book](file:///C:/User/elois/Git/data/non-voters/nonvoters_codebook.pdf).
+reference book - file:///C:/User/elois/Git/data/non-voters/nonvoters_codebook.pdf.
