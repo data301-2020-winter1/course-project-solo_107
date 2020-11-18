@@ -15,6 +15,10 @@ In this data analysis report I will investigate what this data hints about the r
 
 This data was gathered by fivethirtyeight.com in the public interest to understand why some many Americans do not vote in the perspective of the November 2020 presidential election, this data gathering was spontaneous and not ordered by any governmental agency. There were 8,327 participants who enrolled in this study, they were all American citizens eligible to vote in the upcoming 2020 election on November 3rd, the organization thrived to reflect the diversity of the American population however, do to the nature of this survey (online survey) young people are overrepresented in this data. Participants were polled on a diversity of questions: their identity as an American, the importance of voting to them, their trust in the voting system, the different administrative barriered to voting, their health and a series of questions that particularly apply to the 2020 election. This data was crossed checked with American voter files to confirm that those individuals existing in the eyes of the American voting system, 5,239 of the participants were able to be cross referenced. However, there is no guarantee that the participant were telling the truth or that their answers were not influenced by societal pressures. 
 
+## Analysis conclusions
+
+Belonging to a certain party does not make someone less or more likely to vote however, it will influence how a voter chooses to vote. Voters who are undecided are more likely to think that the results of the election will not make a difference but most of them still beleive that their vote matters and that election officials have their best interests in mind. On the contrary, non-voters or people who are unsure if they will vote beleive that the elected president of the 2020 election will not make a difference for the country but they are also very likely to beleive that their vote does not matter and that elected officials do not have their best interests in mind.
+
 ## Team Members
 
 *Eloise Espel, 63799779*
