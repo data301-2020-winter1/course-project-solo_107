@@ -17,8 +17,8 @@ This data was gathered by fivethirtyeight.com in the public interest to understa
 
 ## Team Members
 
-Eloise Espel, 63799779
+*Eloise Espel, 63799779*
 
 ## References
 
-file:///C:/User/elois/Git/data/non-voters/nonvoters_codebook.pdf
+reference book - file:///C:/User/elois/Git/data/non-voters/nonvoters_codebook.pdf.
