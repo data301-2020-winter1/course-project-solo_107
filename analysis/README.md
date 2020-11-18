@@ -1,26 +1,11 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=315561&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
 
-- Your title can change over time.
+# Where do I find what?
+scripts/load_functions contains the function that clean the data and make it more readable 
+analysis/milestone2 contains the data analysis (exploration + explained analysis)
 
-## Milestones
+# Limitations and bugs 
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone2.py generates a "file not found execption" 1/3 of the time caused to error in chaining. If you encounter this error you can use test.py to see the analysis as this file works 100% of the time. 
 
-## Describe your topic/interest in about 150-200 words
-
-{Add your stuff here}
-
-## Describe your dataset in about 150-200 words
-
-{Add your stuff here}
-
-## Team Members
-
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
-
-## References
-
-{Add your stuff here}
+Enjoy!
